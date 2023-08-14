@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450991692368",
+    "project_id": "yumi-resturant",
+    "storage_bucket": "yumi-resturant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450991692368:android:4d4de9342745f208f14f55",
+        "android_client_info": {
+          "package_name": "com.example.yumi_resto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450991692368-6or27b4ijo9a7fsmgsr3a5gsbcgdb86u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDxTPIEkFYoxLzE9uXddWQp4Q5nXl_MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450991692368-6or27b4ijo9a7fsmgsr3a5gsbcgdb86u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
